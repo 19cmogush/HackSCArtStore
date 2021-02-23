@@ -1,4 +1,9 @@
 # NFT Art Store
+Team
+-David Lee
+-Carson Mogush
+-Sanchit Banati
+-Iyad Hassan
 **This project was made for HackSC 2021, check us out on [devpost](https://devpost.com/software/cdsvs)!**
 ## Inspiration
 Crypto and blockchain are booming and are becoming more and more mainstream, and since the last year life has been very difficult for artists to portray their Art in Art galleries and sell them. 
